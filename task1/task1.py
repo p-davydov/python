@@ -1,4 +1,4 @@
-class CountId():
+class CountId(object):
     id = 0
 
 
