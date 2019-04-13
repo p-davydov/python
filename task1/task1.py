@@ -5,7 +5,7 @@ class CountId(object):
 countId = CountId()
 
 
-class GiverId():
+class GiverId(object):
     @classmethod
     def addId(cls):
         countId.id += 1
